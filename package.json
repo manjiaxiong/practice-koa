@@ -1,0 +1,23 @@
+{
+  "name": "practice-koa",
+  "version": "1.0.0",
+  "description": "koa练习",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manjiaxiong/practice-koa.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manjiaxiong/practice-koa/issues"
+  },
+  "homepage": "https://github.com/manjiaxiong/practice-koa#readme",
+  "dependencies": {
+    "koa": "^2.13.4"
+  }
+}
